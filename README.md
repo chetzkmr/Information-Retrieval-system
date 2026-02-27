@@ -21,7 +21,7 @@ An intelligent PDF chatbot built using **Google Gemini, LangChain, FAISS, and St
 
 Below is the user interface of the AI PDF Chatbot:
 
-![AI PDF Chatbot UI](screenshots/chat ui.png)
+![AI PDF Chatbot UI](screenshots/chat_UI.png)
 
 ## 🛠️ Tech Stack
 
