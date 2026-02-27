@@ -59,30 +59,6 @@ git clone https://github.com/your-username/Information-Retrieval-system.git
 cd Information-Retrieval-system
 ```
 
----
-
-### 2️⃣ Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate environment:
-
-**Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-**Mac/Linux**
-
-```bash
-source venv/bin/activate
-```
-
----
-
 ### 3️⃣ Install dependencies
 
 ```bash
